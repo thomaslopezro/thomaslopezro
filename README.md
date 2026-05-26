@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Thomas López
 
-🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** | Bogotá, Colombia 🇨🇴
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Pontificia Universidad Javeriana** | Bogotá, Colombia
 
 💻 Apasionado por el **desarrollo de software full-stack** y la **computación en la nube**.
 
