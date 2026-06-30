@@ -41,13 +41,6 @@
 - 📜 **Bootcamp Desarrollo Web Full Stack** — BIT - Bogotá Institute of Technology *(300 horas)*
 - ☁️ **Introduction to Microsoft Azure Cloud Services** — Microsoft (Coursera)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaslopezro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslopezro&layout=compact&theme=tokyonight)
 
 ---
 
